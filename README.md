@@ -15,12 +15,12 @@ Note: most of these files are license so I cannot include these in the git archi
   > For setting up environment in macOS for *python-xmp-toolkit :
   ```
   sudo easy_install pip
-  
  ```
    
   >You may admin privileges to run above command.
 
-  ``` pip install python-xmp-toolkit
+  ```
+  pip install python-xmp-toolkit
    brew install libxmp
    brew install exempi
  ```
@@ -33,7 +33,6 @@ Note: most of these files are license so I cannot include these in the git archi
    
    ```
    python convertXMPToJson.py XMP/your_XMP_file_Name.xmp json/your_Json_file_Name.json
-   
    ```   
   > Now check *json* folder your converted json find in it.
 
