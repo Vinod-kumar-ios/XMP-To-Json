@@ -13,7 +13,9 @@ Note: most of these files are license so I cannot include these in the git archi
 ### Setup
 
   > For setting up environment in macOS for *python-xmp-toolkit :
-  ```sudo easy_install pip
+  ```
+  sudo easy_install pip
+  
  ```
    
   >You may admin privileges to run above command.
@@ -29,7 +31,9 @@ Note: most of these files are license so I cannot include these in the git archi
    
   > To convert a XMP preset file into the JSON format run below command on terminal.
    
-   ```python convertXMPToJson.py XMP/your_XMP_file_Name.xmp json/your_Json_file_Name.json
+   ```
+   python convertXMPToJson.py XMP/your_XMP_file_Name.xmp json/your_Json_file_Name.json
+   
    ```   
   > Now check *json* folder your converted json find in it.
 
