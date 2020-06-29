@@ -20,7 +20,7 @@ Note: most of these files are license so I cannot include these in the git archi
   >You may admin privileges to run above command.
 
   ```
-  pip install python-xmp-toolkit
+   pip install python-xmp-toolkit
    brew install libxmp
    brew install exempi
  ```
