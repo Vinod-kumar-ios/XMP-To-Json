@@ -4,7 +4,7 @@
 Note: most of these files are license so I cannot include these in the git archive.
 
  
-You can find sample filters for my XMP file [here](https://github.com/macvinod/Image-Filters). 
+**You can find sample filters for my XMP file [here](https://github.com/macvinod/Image-Filters).**
 
 
 
