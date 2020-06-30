@@ -8,7 +8,7 @@ Note: most of these files are license so I cannot include these in the git archi
 
 ### Clone
 
- - Clone this repo to your local machine or download working copy from <a>href="https://github.com/macvinod/XMP-To-Json/archive/v1.0.zip" target="_blank">here</a>
+ - Clone this repo to your local machine or download working copy from  [a link](https://github.com/macvinod/XMP-To-Json/archive/v1.0.zip)<a>href="https://github.com/macvinod/XMP-To-Json/archive/v1.0.zip" target="_blank">here</a>
 
 ### Setup
 
